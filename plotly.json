@@ -1,0 +1,44 @@
+{ 
+  "response_code": 200,
+  "error": false,
+  "message": "success",
+  "data_count": 6,
+  "plots":[
+    {
+        "plot_id": 1,
+        "plot_title": "Menampilkan data gempa bumi per tahun",
+        "plot_link": "https://lonard2.github.io/QuakeWatch-Data/plot01.html",
+        "plot_desc": "Plot untuk menampilkan data gempa bumi berdasarkan tahun"
+    },
+    {
+        "plot_id": 2,
+        "plot_title": "Menampilkan data gempa bumi berdasarkan kedalaman laut",
+        "plot_link": "https://lonard2.github.io/QuakeWatch-Data/plot02.html",
+        "plot_desc": "Plot untuk menampilkan data gempa bumi per tahun berdasarkan kedalaman laut dalam kilometer" 
+    },
+    {
+        "plot_id": 3,
+        "plot_title": "Menampilkan seluruh data gempa bumi",
+        "plot_link": "https://lonard2.github.io/QuakeWatch-Data/plot03.html",
+        "plot_desc": "Plot untuk menampilkan seluruh data gempa bumi secara bersamaan" 
+    },
+    {
+        "plot_id": 4,
+        "plot_title": "Menampilkan data gempa bumi berdasarkan tipe",
+        "plot_link": "https://lonard2.github.io/QuakeWatch-Data/plot04.html",
+        "plot_desc": "Plot untuk menampilkan data gempa bumi berdasarkan tipe gempa bumi tersebut"
+    },
+    {
+        "plot_id": 5,
+        "plot_title": "Menampilkan data gempa bumi berdasarkan besar magnitudo",
+        "plot_link": "https://lonard2.github.io/QuakeWatch-Data/plot05.html",
+        "plot_desc": "Plot untuk menampilkan data gempa bumi per tahun berdasarkan magnitudo terbesar"
+    },
+    {
+        "plot_id": 6,
+        "plot_title": "Menampilkan clustering gempa bumi",
+        "plot_link": "https://lonard2.github.io/QuakeWatch-Data/plot06.html",
+        "plot_desc": "Plot untuk menampilkan hasil clustering dari gempa bumi"
+    }
+  ]
+}
